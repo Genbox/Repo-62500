@@ -1,0 +1,5 @@
+root = true
+
+[*]
+charset = utf-8
+dotnet_diagnostic.cs8619.severity = error
